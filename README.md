@@ -6,7 +6,8 @@
   
 - Estudando;
   - Algoritmos
-
+  - Algoritmos e estruturas de dados em JavaScript
+    
 ![Wellinghton GitHub status](https://github-readme-stats.vercel.app/api?username=Wellinghton&show_icons=true&theme=dracula)
 
 <div>
