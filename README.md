@@ -8,7 +8,7 @@
   - Algoritmos
   - Algoritmos e estruturas de dados em JavaScript
     
-![Wellinghton GitHub status](https://github-readme-stats.vercel.app/api?username=Wellinghton&show_icons=true&theme=dracula)
+![Wellinghton GitHub status](https://github-readme-stats.vercel.app/api?username=kikeeufalo&show_icons=true&theme=dracula)
 
 <div>
   <img width="40px" src="https://github.com/user-attachments/assets/d09bf1f7-3189-4279-9ec7-2f8d6272a6e4">
