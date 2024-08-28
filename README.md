@@ -6,7 +6,6 @@
   
 - Estudando;
   - Análise e desenvolvimento de sistemas
-  - Algoritmos
   - Algoritmos e estruturas de dados em JavaScript
     
 ![Wellinghton GitHub status](https://github-readme-stats.vercel.app/api?username=kikeeufalo&show_icons=true&theme=dracula)
