@@ -5,6 +5,7 @@
   - Back-End
   
 - Estudando;
+  - Análise e desenvolvimento de sistemas
   - Algoritmos
   - Algoritmos e estruturas de dados em JavaScript
     
