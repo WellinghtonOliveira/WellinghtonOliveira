@@ -7,6 +7,13 @@
 - Estudando;
   - Análise e desenvolvimento de sistemas
   - Algoritmos e estruturas de dados em JavaScript
+
+- Certificados;
+  - git e gitHub
+  - Algoritimo
+  - JavaScript
+  - GDScript
+  - design responsivo para a web
     
 ![Wellinghton GitHub status](https://github-readme-stats.vercel.app/api?username=kikeeufalo&show_icons=true&theme=dracula)
 
