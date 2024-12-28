@@ -1,6 +1,6 @@
 ## Eai, aqui é o Wellinghton
 
-- Trabalhando com;
+- Trabalhando e estudando com;
   - Front-End
   - Back-End
   
