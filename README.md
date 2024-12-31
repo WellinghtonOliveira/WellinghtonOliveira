@@ -5,10 +5,12 @@
   - Back-End
   
 - Estudando;
+  
   - Análise e desenvolvimento de sistemas
   - Algoritmos e estruturas de dados em JavaScript
 
 - Certificados;
+  
   - git e gitHub
   - Algoritimo
   - JavaScript
