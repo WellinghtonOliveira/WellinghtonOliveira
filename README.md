@@ -18,6 +18,7 @@
   - design responsivo para a web.
   - HTML básico.
   - CSS básico.
+  - Desenvolvimento de mini games.
     
 ![Wellinghton GitHub status](https://github-readme-stats.vercel.app/api?username=kikeeufalo&show_icons=true&theme=dracula)
 
