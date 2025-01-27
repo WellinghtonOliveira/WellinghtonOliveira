@@ -15,8 +15,8 @@
   - Algoritimo.
   - JavaScript.
   - GDScript.
-  - design responsivo para a web.
-  - JavaScript e Estrutura de Dados
+  - Design responsivo para a web.
+  - JavaScript e Estrutura de Dados.
   - HTML básico.
   - CSS básico.
     
