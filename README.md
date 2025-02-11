@@ -1,10 +1,10 @@
 ## Eai, aqui é o Wellinghton
 
-- Trabalhando e estudando com;
+- Trabalhando e estudando com:
   - Front-End.
   - Back-End.
   
-- Estudando;
+- Estudando:
   
   - Análise e desenvolvimento de sistemas.
   - Algoritmos e estruturas de dados em JavaScript.
