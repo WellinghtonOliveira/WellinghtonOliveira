@@ -17,8 +17,8 @@
   - GDScript.
   - Design responsivo para a web.
   - JavaScript e Estrutura de Dados.
-  - HTML básico.
-  - CSS básico.
+  - HTML.
+  - CSS.
   - WordPress.
     
 ![Wellinghton GitHub status](https://github-readme-stats.vercel.app/api?username=kikeeufalo&show_icons=true&theme=dracula)
