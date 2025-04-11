@@ -9,7 +9,7 @@
   - Análise e desenvolvimento de sistemas.
   - Algoritmos e estruturas de dados em JavaScript.
 
-- Certificados;
+- Certificados:
   
   - git e gitHub.
   - Algoritimo.
