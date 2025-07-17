@@ -3,7 +3,7 @@
 - Trabalhando e estudando com:
   - Front-End.
   - Back-End.
-  - Desenvolvimento Desktop
+  - Desenvolvimento Desktop.
   
 - Estudando:
   
