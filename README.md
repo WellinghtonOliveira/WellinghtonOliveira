@@ -20,7 +20,7 @@
   - JavaScript e Estrutura de Dados.
   - HTML.
   - CSS.
-  - WordPress.
+  - WordPress
     
 ![Wellinghton GitHub status](https://github-readme-stats.vercel.app/api?username=WellinghtonOliveira&show_icons=true&theme=dracula)
 
