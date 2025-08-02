@@ -8,6 +8,7 @@
 - Estudando:
   
   - Análise e desenvolvimento de sistemas.
+    
   - Algoritmos e estruturas de dados em JavaScript.
 
 - Certificados:
@@ -32,5 +33,6 @@
   <img width="40px" src="https://github.com/user-attachments/assets/cb37b169-91ad-4c2d-b677-fa63a4fb9126">
   <img width="40px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/godot_macos_bigsur_icon_190137.png">
 </div>
+
 
 ##
