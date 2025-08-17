@@ -1,19 +1,15 @@
 ## Eai, aqui é o Wellinghton.
 
 - Trabalhando e estudando com:
-
   - Front-End.
   - Back-End.
   - Desenvolvimento Desktop.
   
 - Estudando:
-  
   - Análise e desenvolvimento de sistemas.
-    
   - Algoritmos e estruturas de dados em JavaScript.
 
 - Certificados:
-  
   - git e gitHub.
   - Algoritimo.
   - JavaScript.
