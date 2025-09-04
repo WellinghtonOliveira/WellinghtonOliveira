@@ -16,6 +16,7 @@
   - GDScript.
   - Design responsivo para a web.
   - JavaScript e Estrutura de Dados.
+  - Desenvolvimento Backend e APIs.
   - HTML.
   - CSS.
   - WordPress.
