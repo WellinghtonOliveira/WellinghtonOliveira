@@ -1,6 +1,5 @@
 ## Eai, aqui é o Wellinghton.
 
-
 - Trabalhando e estudando com:
   - Front-End.
   - Back-End.
