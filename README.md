@@ -1,12 +1,11 @@
 ## Eai, aqui é o Wellinghton.
-
-- Trabalhando e estudando com:
-  - Front-End.
-  - Back-End.
-  - Desenvolvimento Desktop.
   
 - Estudando:
   - Análise e desenvolvimento de sistemas.
+  - Front-End.
+  - Back-End.
+  - Desenvolvimento Desktop.
+  - Desenvolvimento mobile
 
 - Certificados:
   - git e gitHub.
