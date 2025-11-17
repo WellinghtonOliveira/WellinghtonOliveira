@@ -5,7 +5,7 @@
   - Front-End.
   - Back-End.
   - Desenvolvimento Desktop.
-  - Desenvolvimento mobile
+  - Desenvolvimento mobile.
 
 - Certificados:
   - git e gitHub.
