@@ -1,23 +1,23 @@
 ##   Eai, aqui é o Wellinghton.
 
 - Estudando:
-  - Análise e desenvolvimento de sistemas.
-  - Front-End.
-  - Back-End.
-  - Desenvolvimento Desktop.
-  - Desenvolvimento mobile.
+ > - Análise e desenvolvimento de sistemas.
+ > - Front-End.
+ > - Back-End.
+ > - Desenvolvimento Desktop.
+ > - Desenvolvimento mobile.
 
 - Certificados:
-  - git e gitHub.
-  - Algoritimo.
-  - JavaScript.
-  - GDScript.
-  - Design responsivo para a web.
-  - JavaScript e Estrutura de Dados.
-  - Desenvolvimento Backend e APIs.
-  - HTML.
-  - CSS.
-  - WordPress.
+ > - git e gitHub.
+ > - Algoritimo.
+ > - JavaScript.
+ > - GDScript.
+ > - Design responsivo para a web.
+ > - JavaScript e Estrutura de Dados.
+ > - Desenvolvimento Backend e APIs.
+ > - HTML.
+ > - CSS.
+ > - WordPress.
   
 ![Wellinghton GitHub status](https://github-readme-stats.vercel.app/api?username=WellinghtonOliveira&show_icons=true&theme=dracula)
 
