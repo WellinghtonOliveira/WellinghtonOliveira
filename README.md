@@ -1,4 +1,4 @@
-##   Eai, aqui é o Wellinghton O.
+##   Eai, aqui é o Wellinghton.
 
 - Estudando:
  > - Análise e desenvolvimento de sistemas.
