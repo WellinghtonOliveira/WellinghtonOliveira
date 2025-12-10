@@ -3,13 +3,13 @@
 - Estudando:
  > - Análise e desenvolvimento de sistemas.
  > - Front-End.
- > - Back-End.
+ > - Back-End. 
  > - Desenvolvimento Desktop.
  > - Desenvolvimento mobile.
 
 - Certificados:
  > - git e gitHub.
- > - Algoritimo.
+ > - Algoritimo. 
  > - JavaScript.
  > - GDScript.
  > - Design responsivo para a web.
