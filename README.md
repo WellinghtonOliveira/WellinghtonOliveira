@@ -3,8 +3,7 @@
 - Estudando:
  > - Análise e desenvolvimento de sistemas.
  > - Front-End.
- > - Back-End. 
- > - Desenvolvimento Desktop.
+ > - Back-End.
  > - Desenvolvimento mobile.
 
 - Certificados:
