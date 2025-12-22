@@ -4,7 +4,6 @@
  > - Análise e desenvolvimento de sistemas.
  > - Front-End.
  > - Back-End.
- > - Desenvolvimento mobile.
 
 - Certificados:
  > - git e gitHub.
