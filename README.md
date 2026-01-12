@@ -4,7 +4,7 @@
  > - Análise e desenvolvimento de sistemas.
  > - Front-End.
  > - Back-End.
-
+ 
 - Certificados:
  > - git e gitHub.
  > - Algoritimo. 
