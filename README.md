@@ -3,7 +3,7 @@
 - Estudando:
  > - Análise e desenvolvimento de sistemas.
  > - Front-End.
- > - Back-End.
+ > - Back-End. 
  
 - Certificados:
  > - git e gitHub.
