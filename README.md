@@ -2,7 +2,7 @@
 
 - Estudando:
  > - Análise e desenvolvimento de sistemas.
- > - Front-End.
+ > - Front-End. 
  > - Back-End.  
  
 - Certificados:
