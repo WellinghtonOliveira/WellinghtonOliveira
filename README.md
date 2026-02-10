@@ -17,7 +17,6 @@
  > - CSS.
  > - WordPress.
 
-
 <div>
   <img width="40px" src="https://github.com/user-attachments/assets/d09bf1f7-3189-4279-9ec7-2f8d6272a6e4">
   <img width="40px" src="https://github.com/user-attachments/assets/94cb76ae-d8be-4cd2-bae2-904ead346450">
