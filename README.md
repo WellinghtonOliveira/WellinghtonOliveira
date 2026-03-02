@@ -1,6 +1,6 @@
 ##  - Eai, aqui é o Wellinghton.
    
-- Estudando:
+- Estudando: 
  > - Análise e desenvolvimento de sistemas.
  > - Front-End. 
  > - Back-End.  
