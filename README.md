@@ -6,7 +6,7 @@
     
 - Certificados:
  > - git e gitHub.
- > - Algoritimo. 
+ > - Algoritimo.  
  > - JavaScript.
  > - GDScript.
  > - Design responsivo para a web.
