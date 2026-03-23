@@ -1,7 +1,7 @@
 ##  - Eai, aqui é o Wellinghton.
 
 - Portifólio:
- > - <a href="https://wellinghtonoliveira.github.io/meuPortifolio/" target="_blank">Portifólio_Wellinghton</a>
+ > - <a href="https://wellinghtonoliveira.github.io/meuPortifolio/" target="_blank">Portifólio_Wellinghton</a> - <
 
 - Estudando:
  > - Análise e desenvolvimento de sistemas.
