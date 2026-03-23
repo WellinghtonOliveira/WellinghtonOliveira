@@ -36,15 +36,18 @@ Interesse em construção de APIs, lógica de programação e desenvolvimento de
 ### Tecnologias
 
 <p>
-<img src="https://devicon-website.vercel.app/api/c/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/electron/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/godot/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/git/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/java/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/mongodb/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/nextjs/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"></img>
+<img width="40" src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
+<img width="40" src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
+<img width="40" src="https://devicon-website.vercel.app/api/electron/original.svg"></img>
+<img width="40" src="https://devicon-website.vercel.app/api/c/original.svg"></img>
+<img width="40" src="https://devicon-website.vercel.app/api/godot/original.svg"></img>
+<img width="40" src="https://devicon-website.vercel.app/api/git/original.svg"></img>
+<img width="40" src="https://devicon-website.vercel.app/api/java/original.svg"></img>
+<img width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
+<img width="40" src="https://devicon-website.vercel.app/api/mongodb/original.svg"></img>
+<img width="40" src="https://devicon-website.vercel.app/api/nextjs/original.svg"></img>
+<img width="40" src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"></img>
+<img width="40" src="https://devicon-website.vercel.app/api/intellij/original.svg"></img>
+<img width="40" src="https://devicon-website.vercel.app/api/visualstudio/plain.svg"></img>
 
 </p>
