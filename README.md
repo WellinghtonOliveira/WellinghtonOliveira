@@ -1,45 +1,39 @@
-<h2 align="center">👋 Olá, eu sou Wellinghton</h2>
+<h2 align="center">Wellinghton Oliveira</h2>
 
 <p align="center">
-Desenvolvedor focado em <b>Back-End</b>
+Desenvolvedor focado em Back-End
 </p>
 
----
-
-### 🌐 Portfólio
-
-<p>
+<p align="center">
 <a href="https://wellinghtonoliveira.github.io/meuPortifolio/"
-style="background:#0d6efd;color:white;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:bold;">
-🚀 Acessar Portfólio
+style="background:#24292e;color:white;padding:10px 18px;border-radius:6px;text-decoration:none;">
+Acessar Portfólio
 </a>
 </p>
 
----
+### Sobre
 
-### 🎓 Estudando
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento backend.  
+Interesse em construção de APIs, lógica de programação e desenvolvimento de software.
 
-- 📚 Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvimento Back-End
+### Formação
 
----
+- Análise e Desenvolvimento de Sistemas
 
-### 📜 Certificados
+### Certificados
 
-- Git e GitHub
-- Algoritmos
-- JavaScript
-- GDScript
-- Design Responsivo para Web
-- JavaScript e Estrutura de Dados
-- Desenvolvimento Backend e APIs
-- HTML
-- CSS
-- WordPress
+- Git e GitHub  
+- Algoritmos  
+- JavaScript  
+- GDScript  
+- Design Responsivo para Web  
+- JavaScript e Estrutura de Dados  
+- Desenvolvimento Backend e APIs  
+- HTML  
+- CSS  
+- WordPress  
 
----
-
-### 🛠 Tecnologias
+### Tecnologias
 
 <p>
 <img width="40" src="https://github.com/user-attachments/assets/d09bf1f7-3189-4279-9ec7-2f8d6272a6e4">
