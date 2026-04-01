@@ -2,7 +2,7 @@
 
 <p align="center">
 Desenvolvedor focado em Back-End
-</p> 
+</p>
 
 <p align="center">
 <a href="https://wellinghtonoliveira.github.io/meuPortifolio/"
