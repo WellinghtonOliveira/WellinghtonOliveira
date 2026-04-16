@@ -17,7 +17,7 @@ Interesse em construção de APIs, lógica de programação e desenvolvimento de
 
 ### Formação
 
-- Análise e Desenvolvimento de Sistemas
+- Análise e Desenvolvimento de Sistemas(cursando)
 
 ### Certificados
 
